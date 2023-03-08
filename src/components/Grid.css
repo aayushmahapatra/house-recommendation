@@ -1,0 +1,28 @@
+table {
+    margin: auto;
+    margin-top: 50px;
+}
+
+th,
+td {
+
+    padding: 10px;
+
+}
+
+.button-recommend {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+td {
+    width: 100px;
+}
+
+th {
+
+    background-color: #FDDF95;
+
+}
